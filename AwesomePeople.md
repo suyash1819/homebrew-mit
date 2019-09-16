@@ -13,3 +13,6 @@ pavan Bagade Mitra Mandal
 aman wagh
 19.8556732,75.2521548,22190
 suyash
+Suyash Karewar 
+Manas Peshwe
+Pratiksha Athave
